@@ -1,4 +1,4 @@
-## 👋 Oi! Esse é o meu GitHub.
+## Hello, world 👋
 
 <!--
 **bkrzysczak/bkrzysczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
